@@ -1,1 +1,1 @@
-depend：reactbit、mediapipe、tailwind、react、django
+dependencies：reactbit、mediapipe、tailwind、react、django
